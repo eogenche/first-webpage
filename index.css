@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    text-align: center;
+    background-color: yellowgreen;
+    }
+
+  h2{
+    color: greenyellow;
+    font-style: italic;
+     text-align: center;
+    }
+  p{
+      font-family: sans-serif;
+      
+    
+    }
+   ul{
+       line-height: 40px;
+       background-color: thistle;
+   }
